@@ -1,14 +1,14 @@
 # Ciao, sono Eleonora! 💫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Con+specializzazione+in+Frontend;Dalle+Relazioni+Internazionali+al+codice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Con+specializzazione+in+Frontend;Dal+Diritto+Internazionale+al+coding)](https://git.io/typing-svg)
 
 ### 👩🏼‍💻 Chi sono
 
-Sono una **Full-Stack Web Developer** con un percorso unico che unisce una solida base analitica a una forte passione per la tecnologia.
+Sono una **sviluppatrice Web Full-Stack** con la passione per la costruzione di interfacce web intuitive e performanti.
 
-Ho da poco concluso un Master intensivo in **Full-Stack Web Development** presso **Boolean Academy**, dove ho consolidato le mie competenze con un focus finale sullo sviluppo **Frontend**, specializzandomi in **React** e **TypeScript**.
+Il mio percorso è iniziato con una laurea in **Relazioni Internazionali**, che mi ha insegnato ad analizzare sistemi complessi e a comunicare in modo efficace. Anni fa, la curiosità per il mondo digitale mi ha portato a un primo incontro con HTML e CSS: una scintilla che oggi, dopo un Master intensivo in **Full-Stack Web Development** presso **Boolean Academy**, è diventata la mia professione.
 
-Il mio interesse per il mondo digitale non è recente: anni fa, un primo incontro con **HTML e CSS** ha acceso una scintilla. Oggi, quella scintilla è diventata la mia professione. La mia laurea in **Relazioni Internazionali** mi ha insegnato ad analizzare sistemi complessi e a comunicare in modo efficace, skill che ora applico per costruire interfacce utente intuitive, accessibili e performanti.
+Oggi applico lo stesso rigore analitico del mio background precedente per scrivere codice pulito e creare esperienze utente memorabili, con un focus particolare su **React** e **TypeScript**.
 
 ---
 
