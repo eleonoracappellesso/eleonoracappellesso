@@ -1,10 +1,10 @@
 # Ciao, sono Eleonora! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Developer;Con+focus+su+Frontend+e+TypeScript;Da+Relazioni+Internazionali+al+codice...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Con+specializzazione+in+Frontend;Dalle+Relazioni+Internazionali+al+codice...)](https://git.io/typing-svg)
 
 ### Chi sono
 
-Sono una **Full-Stack Developer** con un percorso unico che unisce una solida base analitica a una forte passione per la tecnologia.
+Sono una **Full-Stack Web Developer** con un percorso unico che unisce una solida base analitica a una forte passione per la tecnologia.
 
 Ho da poco concluso un Master intensivo in **Full-Stack Web Development** presso **Boolean Academy**, dove ho consolidato le mie competenze con un focus finale sullo sviluppo **Frontend**, specializzandomi in **React** e **TypeScript**.
 
