@@ -1,6 +1,6 @@
 # Ciao, sono Eleonora! 💫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Con+specializzazione+in+Frontend;Dalle+Relazioni+Internazionali+al+codice...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Con+specializzazione+in+Frontend;Da+Relazioni+Internazionali+al+codice)](https://git.io/typing-svg)
 
 ### 👩🏼‍💻 Chi sono
 
