@@ -1,4 +1,4 @@
-# Ciao, sono [IL TUO NOME] 👋
+# Ciao, sono Eleonora! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Full-Stack+Developer;Con+focus+su+Frontend+e+TypeScript;Da+Relazioni+Internazionali+al+codice...)](https://git.io/typing-svg)
 
@@ -63,5 +63,5 @@ Il mio interesse per il mondo digitale non è recente: anni fa, un primo incontr
 
 Sono sempre aperta a nuove opportunità e collaborazioni. Non esitare a contattarmi!
 
-- **LinkedIn**: [Il tuo profilo LinkedIn](hwww.linkedin.com/in/eleonora-cappellesso-6499271b4)
+- **LinkedIn**: [Il mio profilo LinkedIn](hwww.linkedin.com/in/eleonora-cappellesso-6499271b4)
 - **Email**: [cappellessoeleonora@gmail.com](mailto:cappellessoeleonora@gmail.com)
