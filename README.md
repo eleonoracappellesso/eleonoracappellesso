@@ -64,7 +64,7 @@ Il mio interesse per il mondo digitale non è recente: anni fa, un primo incontr
 Sono sempre aperta a nuove opportunità e collaborazioni. Non esitare a contattarmi!
 
 <p align="left">
-  <a href="hwww.linkedin.com/in/eleonora-cappellesso-6499271b4" target="_blank">
+  <a href="www.linkedin.com/in/eleonora-cappellesso-6499271b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -72,7 +72,7 @@ Sono sempre aperta a nuove opportunità e collaborazioni. Non esitare a contatta
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
-  <a href="(https://github.com/eleonoracappellesso/eleonoracappellesso/commit/d59da4ad7f9b9114e4c4dde72099480891849ba2#diff-e088d537e7b8cec66b34a54a167a983abf4890b007db4b241a75e831bf849d22)" target="_blank">
+  <a href="https://github.com/eleonoracappellesso/eleonoracappellesso/raw/main/CV_EleonoraCappellesso.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Scarica_il_mio_CV-993366?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
 </p>
 
