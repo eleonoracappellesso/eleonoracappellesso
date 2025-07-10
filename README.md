@@ -64,7 +64,7 @@ Il mio interesse per il mondo digitale non è recente: anni fa, un primo incontr
 Sono sempre aperta a nuove opportunità e collaborazioni. Non esitare a contattarmi!
 
 <p align="left">
-  <a href="www.linkedin.com/in/eleonora-cappellesso-6499271b4" target="_blank">
+  <a href="https://www.linkedin.com/in/eleonora-cappellesso-6499271b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
